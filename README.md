@@ -7,5 +7,5 @@ Alternative to Proton using the system installed version of wine.
 
 ## Install
 
-1. clone repository in ~/.steam/steam/compatibilitytools.d/my_proton/
+1. clone repository in ~/.steam/steam/compatibilitytools.d/
 2. restart steam client
